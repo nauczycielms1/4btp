@@ -1,0 +1,26 @@
+body { background:#ccdddd;
+		cursor: move;
+		
+		}
+		
+h1 {color: #ff0000;
+	text-align: center;	
+	font-family: 'Aguafina Script', sans-serif;
+	}
+	
+#d1{background-color: #ffcccc;
+	border: 5px groove #8e2323;
+	text-align: center;
+	Position: absolute;
+	Left: 200px;
+	Right: 200px;
+	Top: 20px;
+height:400px;}
+		
+#d2 {position:absolute; 
+	Left: 50px;
+	Right: 50px;
+	Top: 100px;
+	height:200px;
+	text-align: justify;
+	font-size: 25px;}
